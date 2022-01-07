@@ -1,10 +1,10 @@
 # jpa02-andrewpengucsb
 
-Repo: https://github.com/ucsb-cs156-w22/jpa02-andrewpengucsb
+Repo: https://github.com/ucsb-cs156-w22/jpa02-andrewpengucsb/
 
 On Heroku: https://jpa02-andrewpengucsb.herokuapp.com/
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-andrewpeng
+On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-andrewpengucsb/
 
 
 # About this repo
